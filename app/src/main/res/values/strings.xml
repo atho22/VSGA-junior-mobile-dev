@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">xyz2-friend</string>
+    <string name="tv_app_title">CRUD Data Using Internal Storage</string>
+    <string name="toolbar_title">xyz2-friend</string>
+    <string name="mi_about">About</string>
+    <string name="about_msg">SplashScreen, CRUD BaseAdapter, ListView and Persistance
+Data using Internal Storage</string>
+    <string name="mi_exit">Exit</string>
+    <string name="tv_id">ID</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_address">Address</string>
+    <string name="til_id">ID</string>
+    <string name="til_name">Name</string>
+    <string name="til_address">Address</string>
+    <string name="til_phone">Phone</string>
+    <string name="bt_clear">Clear</string>
+    <string name="bt_save">Save</string>
+    <string name="tv_title">DIGITALENT VSGA 2024</string>
+</resources>
